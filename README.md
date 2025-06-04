@@ -39,7 +39,7 @@ cd sales-management-system
   ```sql
   CREATE DATABASE ProjectSMS;
   ```
-- Set your MySQL username and password in `SalesManagementSystem8.java`:
+- Set your MySQL username and password in `sms.java`:
   ```java
   private static final String URL = "jdbc:mysql://localhost:3306/ProjectSMS";
   private static final String USER = "root";
@@ -49,7 +49,7 @@ cd sales-management-system
 ### 3. Compile and Run
 
 - Import into IDE like NetBeans or IntelliJ
-- Run the `SalesManagementSystem8.java` file
+- Run the `sms.java` file
 
 ---
 
