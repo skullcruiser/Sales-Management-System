@@ -29,8 +29,8 @@ A comprehensive **Sales Management System** written in **Java (Swing GUI)** with
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sales-management-system.git
-cd sales-management-system
+git clone https://github.com/your-username/Sales-Management-System.git
+cd Sales-Management-System
 ```
 
 ### 2. Configure MySQL
