@@ -82,6 +82,16 @@ Main Menu Includes:
 - Validates email format
 - Rejects invalid stock or quantity
 
+## Screenshots
+
+<p float="left">
+  <img src="screenshot1.png" width="45%" />
+  <img src="screenshot2.png" width="45%" />
+</p>
+
+## License
+
+This project is open-source and free to use for learning or extension purposes.
 
 ## 🙋 Author
 
