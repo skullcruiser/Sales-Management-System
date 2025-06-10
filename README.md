@@ -1,4 +1,4 @@
-# Sales Management System (Java + MySQL) 
+# Sales Management System (Java + MySQL)
 
 A comprehensive **Sales Management System** written in **Java (Swing GUI)** with **MySQL database integration**. It helps businesses manage their core operations including customer info, products, orders, employees, and sales reports—all through a simple desktop interface.
 
